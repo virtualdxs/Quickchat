@@ -1,0 +1,36 @@
+body, html
+{
+height: 100%;
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+.title
+{
+text-align: center;
+font-size: 400%;
+text-decoration: none;
+}
+
+.description
+{
+text-align: center;
+border: 1px black solid;
+border-radius: 25px;
+min-height: 75%;
+background-color: grey;
+margin: 50px;
+}
+
+.para
+{
+margin: 50px;
+opacity: 0.9;
+font-size: 200%;
+}
+
+/*.button
+{
+color: blue;
+border-radius: 25px;
+border: 1px black solid;
+}*/
